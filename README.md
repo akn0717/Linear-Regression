@@ -1,7 +1,7 @@
 # Linear-Regression /w Gradient Descent
 
 ## Positive Association
-![PA](PA.jpg)
+![PA](PA.png)
 
 ## Negative Association
-![NA](NA.jpg)
+![NA](NA.png)
